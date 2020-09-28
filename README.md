@@ -1,17 +1,15 @@
 # codingPoint
-This repository will contain codes for various data structures and algorithms and related problems.
-
 
 ## Overview
 
-The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java and Python. 
-Feel free to contribute in any way you want.
-Make sure to follow the contribution guidelines listed below.
+- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java and Python. 
+- Feel free to contribute in any way you want.
+- Make sure to follow the contribution guidelines listed below.
 
 ## Contents
 
-We currently have 4 folders for 4 programming languages - C, C++, Java, Python
-**Do not create folders in your submissions, unless specifically told to do so.**
+- We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
+- **Do not create folders in your submissions, unless specifically told to do so.**
 
 ## Contributing Guidelines
 
